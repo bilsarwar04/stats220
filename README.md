@@ -7,6 +7,6 @@
 3. Most importantly, this repo allows me to track my progress in University and then into my career!
   * *In a way, it's almost like a journal of some sort.*
 
-If you're interested to know more about me, just click [here!](https://github.com/bilsarwar04)
+Check out my website I made by the way, click [here!](https://bilsarwar04.github.io/stats220/)
 
 ![](https://media.tenor.com/8ZDLU43omvcAAAAC/kid-thumbs-up.gif)
